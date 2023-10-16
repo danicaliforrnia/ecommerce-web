@@ -1,6 +1,13 @@
 {
   "name": "ecommerce-web",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Ecommerce developed with Angular 16",
+  "author": {
+    "name": "Daniel Stefanelli",
+    "email": "daniel.stefanelli.h@gmail.com",
+    "url": "https://github.com/danicaliforrnia"
+  },
+  "keywords": ["angular", "ecommerce"],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
